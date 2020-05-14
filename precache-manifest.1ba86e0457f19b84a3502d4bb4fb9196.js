@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84d6940833f561fe79c7d8ca242af8b6",
+    "revision": "3564d17ed233aab25eb1083b36c292dd",
     "url": "/innoscripta_gh/index.html"
   },
   {
-    "revision": "5f74fbbfffe4db641603",
-    "url": "/innoscripta_gh/static/css/main.a06cf601.chunk.css"
+    "revision": "ecc1a0f8efc8bfeb47d4",
+    "url": "/innoscripta_gh/static/css/main.d411e436.chunk.css"
   },
   {
-    "revision": "84ece0b3ba3c9c94c906",
-    "url": "/innoscripta_gh/static/js/2.880baa8e.chunk.js"
+    "revision": "4869db6f704d29fa1a84",
+    "url": "/innoscripta_gh/static/js/2.daedbb9b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/innoscripta_gh/static/js/2.880baa8e.chunk.js.LICENSE.txt"
+    "url": "/innoscripta_gh/static/js/2.daedbb9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f74fbbfffe4db641603",
-    "url": "/innoscripta_gh/static/js/main.2b02f64b.chunk.js"
+    "revision": "ecc1a0f8efc8bfeb47d4",
+    "url": "/innoscripta_gh/static/js/main.919e7021.chunk.js"
   },
   {
     "revision": "422a90c6e2404e2c261c",
