@@ -77,7 +77,7 @@ let initialState = {
             id: '5',
             title: 'Название пиццы',
             price: getRandomInt(1000),
-            image: 'https://hdwallpaper.move.pk/wp-content/uploads/2015/02/hot-pizza.jpg',
+            image: null,
             count: 3
         },
         {
