@@ -22,7 +22,7 @@ function Cart(props) {
         return (
             <div className='cart-item' id={e.id} key={e.id}>
                 <div className='cart-item__image'>
-                    <img src={photo} alt='pizza' />
+                    <img src={e.image} alt='pizza' />
                 </div>
                 <div className='cart-item__block'>
                     <div className='cart-item__info'>
