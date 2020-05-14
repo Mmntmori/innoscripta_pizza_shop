@@ -5,7 +5,6 @@ import { connect } from 'react-redux';
 import { addToCart, deleteFromCart, hanbldeItemCount, cleanCart, makeOrder } from '../../store/shopReducer'
 
 function ShopPage(props) {
-    // console.log(props)
     return (
         <div className='shop-page'>
             <div className='wrapper'>
@@ -78,7 +77,6 @@ function Cart(props) {
 }
 
 function ShopList(props) {
-    // console.log(props)
     let listElements = props.shopList.map((e) => {
         return (
             <div className='shop-page__item shop-item' key={e.id} id={e.id}>
@@ -117,7 +115,6 @@ function ShopList(props) {
 }
 
 const mapStateToProps = (state) => {
-    // console.log(state)
     return ({
         shopList: state.shopPage.shopList,
         cart: state.shopPage.cart
