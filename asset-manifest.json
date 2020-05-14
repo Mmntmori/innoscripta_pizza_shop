@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/innoscripta_gh/static/css/main.a06cf601.chunk.css",
+    "main.js": "/innoscripta_gh/static/js/main.fa8cf354.chunk.js",
+    "main.js.map": "/innoscripta_gh/static/js/main.fa8cf354.chunk.js.map",
+    "runtime-main.js": "/innoscripta_gh/static/js/runtime-main.00483054.js",
+    "runtime-main.js.map": "/innoscripta_gh/static/js/runtime-main.00483054.js.map",
+    "static/js/2.daedbb9b.chunk.js": "/innoscripta_gh/static/js/2.daedbb9b.chunk.js",
+    "static/js/2.daedbb9b.chunk.js.map": "/innoscripta_gh/static/js/2.daedbb9b.chunk.js.map",
+    "index.html": "/innoscripta_gh/index.html",
+    "precache-manifest.4d0d01b3a99f2ace917e6af2d08edf51.js": "/innoscripta_gh/precache-manifest.4d0d01b3a99f2ace917e6af2d08edf51.js",
+    "service-worker.js": "/innoscripta_gh/service-worker.js",
+    "static/css/main.a06cf601.chunk.css.map": "/innoscripta_gh/static/css/main.a06cf601.chunk.css.map",
+    "static/js/2.daedbb9b.chunk.js.LICENSE.txt": "/innoscripta_gh/static/js/2.daedbb9b.chunk.js.LICENSE.txt",
+    "static/media/673887.png": "/innoscripta_gh/static/media/673887.3ad32b2a.png",
+    "static/media/pizza-svgrepo-com.svg": "/innoscripta_gh/static/media/pizza-svgrepo-com.74c0ca41.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00483054.js",
+    "static/js/2.daedbb9b.chunk.js",
+    "static/css/main.a06cf601.chunk.css",
+    "static/js/main.fa8cf354.chunk.js"
+  ]
+}
